@@ -3,6 +3,30 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+
+  /* Basic */
+  --color-white: #ffffff;
+  --color-black: #000000;
+
+  /* Turquoise */
+  --color-turquoise-light: #a0f0e8;
+  --color-turquoise: #40e0d0;
+  --color-turquoise-dark: #2ca99c;
+
+  /* Teal */
+  --color-teal-light: #b2f5ea;
+  --color-teal: #319795;
+  --color-teal-dark: #2c7a7b;
+
+  /* Cyan */
+  --color-cyan-light: #cffafe;
+  --color-cyan: #06b6d4;
+  --color-cyan-dark: #0e7490;
+
+  /* Aqua */
+  --color-aqua-light: #e0fcf9;
+  --color-aqua: #14b8a6;
+  --color-aqua-dark: #0f766e;
 }
 
 @theme inline {
